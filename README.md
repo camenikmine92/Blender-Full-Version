@@ -235,4 +235,4 @@ This repository serves as the official landing page for Blender. The software is
 **Get the most recent version of Blender today!**
 
 ---
-**Last updated:** 2026-09-25 17:43:13 UTC
+**Last updated:** 2026-09-25 20:58:59 UTC
